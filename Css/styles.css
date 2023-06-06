@@ -1,0 +1,92 @@
+body {text-align: center;
+    background-color: #ECF8F9;
+margin: 0 0 0 0;
+width: 100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1 {margin: 0 auto 0 auto;
+color: #ECF8F9;
+padding: 130px 0 13px 0;
+line-height: 2;
+font-size: 60px;
+}
+p {
+}
+h3 {color: #66bfbf; font-size: 29px; text-align: center;} 
+h2 { color: #66bfbf; font-size: 50px; padding: 70px auto;}
+hr {border-style: dotted; width: 5%;
+border-width: 8px 0 0 0; color: #66bfbf;}
+a {display: inline-block; margin: 20px 40px; text-decoration: none; color: #ECF8F9;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*********************class selectors****************/
+.web {line-height: 2; font-size: 40px; color: #ECF8F9;}
+.top-container { background-color: #AEE2FF; 
+    position: relative;
+} 
+.bottom-container {height: 120px; background-color: #AEE2FF; 
+margin-top: 100px;}
+.top-cloud { position: absolute;
+right: 150px;
+top: 40px;}
+.bottom-cloud {position: absolute;
+left: 110px;;
+}
+.my-picture {margin: 50px auto 13px auto; width: 16%;}
+.intro {width: 40%;
+margin: 70px auto; line-height: 2; font-size: 20px;}
+.skill {line-height: 2;}
+.computer { width: 20%; float: left; margin-right: 30px;}
+.com-div {width: 50%; margin: 30px auto;
+text-align: left;}
+.my-skills {margin: 10px auto 35px;}
+.top-paragraph {font-size: 32px;
+color: #ECF8F9;}
+.machine {text-align: right;
+width: 50%;
+margin: 30px auto 70px auto;}
+.machine-design {float: right; margin-left: 30px; position: relative; top: 10px;}
+.skill-2 {line-height: 2; text-align: left;}
+.my-name {font-size: 20px; margin-bottom: 0;}
+
+.btn {
+    background: #66bfbf;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 13px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #1c567a;
+    background-image: -webkit-linear-gradient(top, #1c567a, #3498db);
+    background-image: -moz-linear-gradient(top, #1c567a, #3498db);
+    background-image: -ms-linear-gradient(top, #1c567a, #3498db);
+    background-image: -o-linear-gradient(top, #1c567a, #3498db);
+    background-image: linear-gradient(to bottom, #1c567a, #3498db);
+    text-decoration: none;
+  }
+  .btn {display: block; margin: 40px auto;
+width: 17%;}
